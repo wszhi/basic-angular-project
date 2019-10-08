@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="no"?> 
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <font id="icons" horiz-adv-x="17">
+    <font-face font-family="icons"
+      units-per-em="17" ascent="17"
+      descent="0" />
+    <missing-glyph horiz-adv-x="0" />
+    <glyph glyph-name="close"
+      unicode="&#xF101;"
+      horiz-adv-x="17" d=" M8.618 9.9L2.268 16.25A1.032 1.032 0 1 1 0.81 14.792L7.16 8.442L0.81 2.092A1.032 1.032 0 0 1 0.812 0.632A1.032 1.032 0 0 1 2.272 0.63L8.622 6.98L14.904 0.697A1.032 1.032 0 1 1 16.362 2.155L10.08 8.438L16.37 14.728A1.032 1.032 0 0 1 16.369 16.188A1.032 1.032 0 0 1 14.909 16.19L8.618 9.9z" />
+    <glyph glyph-name="story-card"
+      unicode="&#xF102;"
+      horiz-adv-x="17" d=" M8.5 17H8.5ANaN NaN NaN 0 0 17 17V0ANaN NaN NaN 0 0 8.5 0H8.5ANaN NaN NaN 0 0 0 0V17ANaN NaN NaN 0 0 8.5 17z M6.3992857142857 4.5997142857143V11.5150714285714H10.9407142857143V4.5535714285714L8.67 6.5814285714286z" />
+  </font>
+</defs>
+</svg>
